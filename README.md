@@ -1,5 +1,3 @@
-# My-demo-project.1
-#learning the basics of the git hub!
-Author-Farhan
+This is my very first regression model 
 
 
