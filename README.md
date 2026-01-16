@@ -1,19 +1,13 @@
-# Regression Model
+# Linear Regression Models
 
-This repository contains my **Linear Regression model** built using **Python and scikit-learn**.  
-The model is used to **predict salary based on years of experience**.
+This repository contains multiple Linear Regression projects implemented using Python and scikit-learn.
 
-## Overview
-- Simple Linear Regression for salary prediction
-- Trained using scikit-learn
-- Data visualization included
+## Projects
+- Salary Prediction using Years of Experience
+- Housing Price Prediction using house features
 
-## Libraries Used
-- Python  
-- NumPy  
-- Pandas  
-- Matplotlib  
-- Scikit-learn  
+Each project demonstrates data preprocessing, model training, prediction, and visualization.
+
 
 
 
