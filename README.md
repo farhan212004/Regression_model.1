@@ -1,11 +1,12 @@
 # First Regression Model
 
-This repository contains my **first Linear Regression model** implemented using **Python and scikit-learn**.
+This repository contains my **first Linear Regression model** built using **Python and scikit-learn**.  
+The model is used to **predict salary based on years of experience**.
 
 ## Overview
-- Built a simple regression model
-- Used scikit-learn for training
-- Visualized data and regression line
+- Simple Linear Regression for salary prediction
+- Trained using scikit-learn
+- Data visualization included
 
 ## Libraries Used
 - Python  
